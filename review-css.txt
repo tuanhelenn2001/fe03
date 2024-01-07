@@ -1,0 +1,18 @@
+* Nhúng css vào html
+    - style inline: thuộc tính style của phần tử html
+    - tag style: thẻ style, ảnh hưởng đến toàn bộ trang html
+    - external style ( file style: .css:)
+        ++ nhúng vào html:
+            link/import
+* Bộ chọn
+    - bộ chọn phần tử: tag
+        h1, div, body,...
+            h1{
+                color:#ffccd1
+            }
+    - Bộ chọn class:
+        .class-name{
+
+        }
+    - booj chọn id:
+        #id-name
